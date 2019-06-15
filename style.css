@@ -1,7 +1,10 @@
 body {
    background-color:#fffdd0;
    font-family: sans-serif;
-   margin:20px;
+   margin-top:20px;
+   margin-bottom:20px;
+   margin-left:20px;
+   margin-right:20px;
 }
 
 h1 {
