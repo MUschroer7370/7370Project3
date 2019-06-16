@@ -46,9 +46,7 @@ body	{
 }
 
 .borderexample4	{
-	border-style:solid;
-	border-color:blue;
-	border-width:2px;
+	border: 2px solid blue;
 	height:300px;
 	width:500px;
 }
