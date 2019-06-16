@@ -65,8 +65,8 @@ body	{
 	weight:2px;
 	border-style:solid;
 	border-color:orange;
-	height:300px;
-	width:500px;
+	min-height:300px;
+	min-width:500px;
 }
 
 .borderexample7	{
