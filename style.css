@@ -19,8 +19,13 @@ body {
 	border-width:10px;
 	border-left:dashed;
 	border-left-color:red;
+	border-right:doted;
+	border-right-color:black;
+	border-top:double;
+	border-top-color:purple;
+	border-bottom:groove;
+	border-bottom-color:orange;
 }
-
 
 h1 {
    color:black;
