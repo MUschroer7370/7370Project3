@@ -2,6 +2,7 @@ body	{
 	background-color: #fffdd0;
 	font-family: sans-serif;
 	margin:20px;
+	overflow:hidden;
 }
 
 .borderexample	{
