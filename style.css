@@ -7,6 +7,12 @@ body {
    margin-right:20px;
 }
 
+style
+   .borderexample {
+    border-style:dashed;
+    border-color:red;
+}
+
 h1 {
    color:black;
    font-weight:bold;
