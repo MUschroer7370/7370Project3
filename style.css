@@ -24,3 +24,9 @@ body {
 	border-bottom-style:groove;
 	border-bottom-color:orange;
 }
+
+.floatbox1 {
+	border: 2px solid blue;
+	height:300px;
+	width:500px;
+}
