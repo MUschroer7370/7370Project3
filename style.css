@@ -27,6 +27,16 @@ body {
 	border-bottom-color:orange;
 }
 
+.borderexample2 {
+	border-style:solid;
+	border-color:green;
+	height:5px;
+	padding-left:10px;
+	padding-right:50px;
+	padding-top:20px;
+	padding-bottom:100px;
+}
+
 h1 {
    color:black;
    font-weight:bold;
