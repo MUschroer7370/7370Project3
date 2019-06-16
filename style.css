@@ -12,8 +12,8 @@ body {
 }
 
 .borderexample1 {
-	height:100px;
-	weight:300px;
+	min-height:100px;
+	width:300px;
 	border-width:10px;
 	border-left:dashed;
 	border-left-color:red;
