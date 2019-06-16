@@ -7,8 +7,7 @@ body {
    margin-right:20px;
 }
 
-style
-   .borderexample {
+.borderexample {
     border-style:dashed;
     border-color:red;
     height:30px;
