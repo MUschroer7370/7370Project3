@@ -13,6 +13,15 @@ body {
     height:30px;
 }
 
+.borderexample1 {
+	height:100px;
+	weight:300px;
+	border-width:10px;
+	border-left:dashed;
+	border-left-color:red;
+}
+
+
 h1 {
    color:black;
    font-weight:bold;
