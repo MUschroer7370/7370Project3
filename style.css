@@ -80,11 +80,10 @@ body	{
 }
 
 .borderexample7	{
-	weight:2px;
-	border-style:solid;
-	border-color:green;
+	border: 2px solid green;
 	height:100px;
 	width:800px;
+	overflow:hidden;
 }
 	
 h1	{
