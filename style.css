@@ -11,6 +11,7 @@ style
    .borderexample {
     border-style:dashed;
     border-color:red;
+    height:30px;
 }
 
 h1 {
