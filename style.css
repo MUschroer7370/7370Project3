@@ -2,7 +2,6 @@ body	{
 	background-color: #fffdd0;
 	font-family: sans-serif;
 	margin:20px;
-	overflow:hidden;
 }
 
 .borderexample	{
@@ -86,6 +85,7 @@ body	{
 	border-color:green;
 	height:100px;
 	width:800px;
+	overflow:hidden;
 }
 	
 h1	{
