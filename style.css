@@ -45,8 +45,10 @@ body {
 	margin-left:50px;
 }
 
-.floatbox1 {
-	border: 2px solid blue;
+.floatbox1{
+	border: 2px;
+        border-style:solid;
+	border-color: blue;
 	height:300px;
 	width:500px;
 }
