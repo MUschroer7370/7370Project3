@@ -47,6 +47,14 @@ body {
 	margin-left:50px;
 }
 
+.borderexample4 {
+	border-style:solid;
+	border-color:blue;
+	border-width:500px;
+	height:300px;
+	weight:2px;
+}
+
 h1 {
    color:black;
    font-weight:bold;
