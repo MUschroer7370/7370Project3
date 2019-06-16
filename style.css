@@ -6,8 +6,9 @@ body {
 
 .borderexample {
     border-style:dashed;
+    border-width:2px;
     border-color:red;
-    height:30px;
+    min-height:30px;
 }
 
 .borderexample1 {
