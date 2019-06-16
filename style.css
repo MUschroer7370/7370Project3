@@ -45,6 +45,14 @@ body	{
 	margin-left:50px;
 }
 
+.floatleft  {
+	float:left;
+}
+
+.floatright  {
+	float:right;
+}
+
 .borderexample4	{
 	border: 2px solid blue;
 	height:300px;
