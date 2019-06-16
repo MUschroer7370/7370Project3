@@ -50,9 +50,9 @@ body {
 .borderexample4 {
 	border-style:solid;
 	border-color:blue;
-	border-width:500px;
+	border-width:2px;
 	height:300px;
-	weight:2px;
+	width:500px;
 }
 
 h1 {
