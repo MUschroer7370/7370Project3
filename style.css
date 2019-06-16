@@ -53,6 +53,30 @@ body	{
 	width:500px;
 }
 
+.borderexample5	{
+	weight:2px;
+	border-style:solid;
+	border-color:purple;
+	height:300px;
+	width:500px;
+}
+
+.borderexample6	{
+	weight:2px;
+	border-style:solid;
+	border-color:orange;
+	height:300px;
+	width:500px;
+}
+
+.borderexample7	{
+	weight:2px;
+	border-style:solid;
+	border-color:green;
+	height:100px;
+	width:800px;
+}
+	
 h1	{
 	color:black;
 	font-weight:bold;
