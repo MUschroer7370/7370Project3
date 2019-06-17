@@ -15,20 +15,20 @@ body	{
 	min-height:100px;
 	width:300px;
 	border-width:10px;
-	border-left:dashed;
+	border-left-style:dashed;
 	border-left-color:red;
-	border-right:dotted;
+	border-right-style:dotted;
 	border-right-color:black;
-	border-top:double;
+	border-top-style:double;
 	border-top-color:purple;
-	border-bottom:groove;
+	border-bottom-style:groove;
 	border-bottom-color:orange;
 }
 
 .borderexample2	{
 	border-style:solid;
 	border-color:green;
-	border-width:10px;
+	border-width:5px;
 	padding-left:10px;
 	padding-right:50px;
 	padding-top:20px;
@@ -75,8 +75,8 @@ body	{
 	weight:2px;
 	border-style:solid;
 	border-color:orange;
-	min-height:300px;
-	min-width:500px;
+	height:300px;
+	width:500px;
 }
 
 .borderexample7	{
